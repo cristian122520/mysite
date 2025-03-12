@@ -1,0 +1,41 @@
+body{
+  
+    background-color:  hsl(152, 77%, 40%);
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+header {
+    background-color: rgb(38, 131, 34);
+    color: rgb(5, 10, 9);
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+section {
+    background-color: rgb(38, 219, 99);
+    color: rgb(13, 18, 24);
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow:2px 2px 10px rgba(0.0.0.0.1) ;
+}
+    
+a{
+    color:#0a28d1;
+    text-decoration: none;
+   
+    
+}
+a :hover{
+    text-decoration: underline;
+}
+
+*{
+   margin: 0px;
+   padding: 0px;
+     box-sizing: border-box
+}
+img{
+    border-radius: 50%;
+}
